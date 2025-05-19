@@ -1,13 +1,17 @@
 /* Subscribe button styling */
 .subscribe-btn {
-    background-color: #007BFF;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-  }
-  
-  .subscribe-btn:hover {
-    background-color: #0056b3;
-  }
-  
+  background-color: #007BFF;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.subscribe-btn:hover {
+  background-color: #0056b3;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
